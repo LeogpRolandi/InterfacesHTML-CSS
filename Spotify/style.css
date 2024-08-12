@@ -1,4 +1,4 @@
-:root{
+:root {
   --default-green: #1db954;
   --light-green: #1ed760;
 }
@@ -27,7 +27,7 @@ body {
   transition: all 300ms ease;
 }
 
-.btn-primary:hover{
+.btn-primary:hover {
   background: var(--light-green);
   cursor: pointer;
 }
@@ -67,7 +67,7 @@ body {
   transition: all 250ms ease;
 }
 
-#navbar .navbar-container ul li:hover{
+#navbar .navbar-container ul li:hover {
   color: var(--default-green);
   cursor: pointer;
 }
@@ -86,7 +86,7 @@ body {
   color: white;
   background-image: url("/img/mulher-ouvindo-musica.jpg");
   background-position: 30px;
-  background-size:cover;
+  background-size: cover;
   background-color: rgba(0, 0, 0, 0.4);
   background-blend-mode: color;
 }
@@ -129,7 +129,7 @@ body {
 
 #footer .footer-content #footer-menu #footer-menu-item {
   margin: 25px 0;
-  transition:all 300ms ease;
+  transition: all 300ms ease;
   cursor: pointer;
 }
 
@@ -155,7 +155,7 @@ body {
   transition: all 300ms ease;
 }
 
-.socials i:hover{
+.socials i:hover {
   color: var(--default-green);
   cursor: pointer;
 }
@@ -179,12 +179,12 @@ body {
   list-style: none;
 }
 
-.footer-info .footer-info-items .footer-info-item{
+.footer-info .footer-info-items .footer-info-item {
   margin: 0 10px;
   transition: all 300ms ease;
 }
 
-.footer-info .footer-info-items .footer-info-item:hover{
+.footer-info .footer-info-items .footer-info-item:hover {
   color: var(--default-green);
   cursor: pointer;
 }
@@ -195,11 +195,11 @@ body {
   margin-bottom: 10px;
 }
 
-.footer-info .rights .country p{
+.footer-info .rights .country p {
   transition: all 300ms ease;
 }
 
-.footer-info .rights .country p:hover{
+.footer-info .rights .country p:hover {
   color: var(--default-green);
   cursor: pointer;
 }
@@ -210,5 +210,3 @@ body {
   display: inline-block;
   margin-left: 10px;
 }
-
-
